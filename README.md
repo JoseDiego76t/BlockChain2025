@@ -61,6 +61,7 @@ Per generar el fitxer WASM necessari per al desplegament:
 
 ```bash
 sc-meta all build
+```
 
 ## 📜 Llicència
 
