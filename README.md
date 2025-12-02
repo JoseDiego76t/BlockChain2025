@@ -74,7 +74,7 @@ Consulta el fitxer `LICENSE` per a més detalls.
 ## 👤 Autor
 
 * **José Diego Cervellera Forcadell** - *Desenvolupament Smart Contract*
-* **GitHub:** [https://[https://github.com/JoseDiego76t](https://github.com/JoseDiego76t)
+* **GitHub:** [https://github.com/JoseDiego76t](https://github.com/JoseDiego76t)
 
 Si t'ha agradat el projecte o tens dubtes, no dubtis a contactar-me!
 
